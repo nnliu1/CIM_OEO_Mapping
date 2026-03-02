@@ -12,10 +12,6 @@ bertmap/match/raw_mappings.json
 
 
 ## Run BERTMap
-use BERTMap checkpoint-3780, which is already fine-tuned in OEO and CIM
-```
-bertmap/bert/Checkpoint-3780
-```
 
 run
 ```
